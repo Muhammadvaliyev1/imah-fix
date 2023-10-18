@@ -1,0 +1,35 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.text-5-5 {
+    font-size: 52px;
+}
+
+.text-44xl {
+    font-size: 40px;
+    line-height: 54px;
+}
+
+
+.bgg {
+    background: rgba(217, 217, 217, 0.20);
+}
+
+.bggg {
+    background-color: #F2F2F2;
+    background: rgba(217, 217, 217, 0.20);
+}
+
+.shad {
+    box-shadow: 5px 5px 10px 0px rgba(0, 0, 0, 0.05);
+}
+
+.section-bg {
+    background-image: url(/public/img/image\ 7.png);
+    
+}
+
+.gap-x-101px {
+    row-gap: 101px;
+}
